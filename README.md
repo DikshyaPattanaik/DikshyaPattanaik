@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DikshyaPattanaik
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning PCA
+- 🌱 I’m currently learning CNN.
 - 💞️ I’m looking forward to learn and utilise this platform to enhance my data science knowledge.
 - 📫 How to reach me dikshyapatt28@gmail.com
 -I will be posting my work/projects here.
